@@ -1,0 +1,2 @@
+learn tkinter
+lerne project with tkinter 
